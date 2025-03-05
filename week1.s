@@ -1,0 +1,6 @@
+MOV r2,#10
+MOV r3,#2
+MUL r1,r2,r3
+MOV r0,#1
+SWI 0X6b
+SWI 0X11

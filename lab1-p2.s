@@ -1,0 +1,3 @@
+LDR R0, =0x03
+MOV R1, #0
+RSB R3,R0,R1

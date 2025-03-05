@@ -1,0 +1,2 @@
+MOV R0, #31
+MOV R1, R0, LSL#4
